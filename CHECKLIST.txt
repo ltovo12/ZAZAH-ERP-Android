@@ -1,0 +1,16 @@
+ZAZAH MOBILE SQLITE V2 — INFINITYFREE
+======================================
+[ ] Copier server_patch/admin/mobile_api/ vers zazah/admin/mobile_api/
+[ ] Vérifier config_mobile.php et son token
+[ ] Si nécessaire, exécuter install_mobile_sync.php puis le supprimer
+[ ] Vérifier que browser_sync.php existe sur le serveur
+[ ] Ouvrir le projet V2 dans Android Studio
+[ ] Build > Build APK(s)
+[ ] Installer l'APK V2
+[ ] Paramètres serveur : URL + même token
+[ ] Synchronisation initiale
+[ ] Vérifier que produits/stock apparaissent
+[ ] Tester vente LOCAL sans Internet
+[ ] Reconnecter Internet
+[ ] Ouvrir Synchronisation navigateur
+[ ] Vérifier que la vente passe de pending à synced

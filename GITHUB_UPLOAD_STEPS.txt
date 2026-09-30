@@ -1,0 +1,12 @@
+ZAZAH ERP V6.4.3 - ETAPES GITHUB
+
+1. Décompresser ZAZAH_ERP_GITHUB_V6_4_3_READY.zip
+2. Ouvrir le dépôt GitHub : ZAZAH-ERP-Android
+3. Uploader le CONTENU du dossier, pas le ZIP seul
+4. Vérifier le dossier .github/workflows
+5. Commit changes
+6. Aller dans Actions
+7. Ouvrir Build ZAZAH ERP APK
+8. Run workflow
+9. Attendre le voyant vert
+10. Ouvrir le build et télécharger ZAZAH-ERP-V6.4.3-APK

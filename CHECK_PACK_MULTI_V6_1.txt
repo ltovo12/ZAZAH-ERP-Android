@@ -1,0 +1,9 @@
+V6.1 - PACK MULTI-PRODUITS
+- [x] SQLite DB_VERSION 18
+- [x] Groupe article -> plusieurs variantes
+- [x] Anciennes lignes normalisées en groupes
+- [x] Synchronisation groupe_code
+- [x] POS garde une déduction par variante
+- [x] Image marketing moderne
+- [x] Partage WhatsApp / WhatsApp Business
+- [x] versionCode 83
