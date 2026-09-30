@@ -1,2 +1,0 @@
-# ZAZAH-ERP-Android
-Zazah
